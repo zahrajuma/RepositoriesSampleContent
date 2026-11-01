@@ -13,7 +13,7 @@
             "kind": "Scheduled",
             "apiVersion": "2019-01-01-preview",
             "properties": {
-                "displayName": "Repositories automation rule 1",
+                "displayName": "Repositories automation rule 1 - Test",
                 "order": 1,
                 "triggeringLogic": {
                     "isEnabled": true,
